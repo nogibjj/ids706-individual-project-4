@@ -4,7 +4,7 @@ import os
 
 app = Flask(__name__)
 
-openai.api_key = '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'
+openai.api_key = 'your-openai-key'
 
 @app.route('/', methods=['GET', 'POST'])
 def summarize_text():
