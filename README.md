@@ -63,4 +63,16 @@ The deployment of this summarization tool promises to streamline workflows by co
 
 *Note: Refer to the templates directory for index.html and result.html. Use the provided Dockerfile for deployment. The main.py script contains the Flask application logic.*
 
+## DockeHub & Microsoft Azure Web App
+
+<img width="1288" alt="Screenshot 2023-12-13 at 2 18 08 PM" src="https://github.com/nogibjj/ids706-individual-project-4/assets/78721466/a540aa70-b737-4919-92b3-5d877d59d977">
+
+<img width="1470" alt="Screenshot 2023-12-13 at 2 17 41 PM" src="https://github.com/nogibjj/ids706-individual-project-4/assets/78721466/f101818c-4036-48b9-b0b5-676a0eb04b77">
+
+Link: https://flasktextsummarizer.azurewebsites.net
+
+<img width="1497" alt="Screenshot 2023-12-13 at 2 22 21 PM" src="https://github.com/nogibjj/ids706-individual-project-4/assets/78721466/1c66a43d-8854-4860-ab0e-1427ac26d876">
+
+<img width="1364" alt="Screenshot 2023-12-13 at 2 22 52 PM" src="https://github.com/nogibjj/ids706-individual-project-4/assets/78721466/f4aaa49e-6f84-48c0-9c32-cb1593dbd3e5">
+
 
