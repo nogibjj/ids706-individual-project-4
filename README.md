@@ -67,6 +67,8 @@ The deployment of this summarization tool promises to streamline workflows by co
 
 <img width="1288" alt="Screenshot 2023-12-13 at 2 18 08 PM" src="https://github.com/nogibjj/ids706-individual-project-4/assets/78721466/a540aa70-b737-4919-92b3-5d877d59d977">
 
+<img width="1498" alt="Screenshot 2023-12-13 at 2 23 55 PM" src="https://github.com/nogibjj/ids706-individual-project-4/assets/78721466/1dca1a47-8dfd-4918-bf29-a42aad4964a4">
+
 <img width="1470" alt="Screenshot 2023-12-13 at 2 17 41 PM" src="https://github.com/nogibjj/ids706-individual-project-4/assets/78721466/f101818c-4036-48b9-b0b5-676a0eb04b77">
 
 Link: https://flasktextsummarizer.azurewebsites.net
