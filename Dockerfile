@@ -9,6 +9,6 @@ RUN pip install -r requirements.txt
 COPY main.py .
 COPY templates templates
 
-EXPOSE 80
+EXPOSE 8085
 
 CMD ["python", "main.py"]

@@ -4,7 +4,7 @@ import os
 
 app = Flask(__name__)
 
-openai.api_key = os.environ.get('OPENAI_API_KEY')
+openai.api_key = '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'
 
 @app.route('/', methods=['GET', 'POST'])
 def summarize_text():
@@ -28,7 +28,7 @@ def summarize_text():
     return render_template('index.html')
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=80)
+    app.run(host='0.0.0.0', port=8085)
 
 
 
